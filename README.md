@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm passionate about programming and love diving into complex problems to find elegant solutions. My journey in the world of software development began with Java, where I explored the depths of object-oriented programming. Recently, I've been honing my skills in Kotlin, finding its concise yet powerful nature fascinating.<br><br>Currently, I'm working on a Java project called SwiftFood, which involves developing a cafe management system. This project has been a great opportunity for me to apply my object-oriented programming knowledge in a real-world scenario, enhancing my skills in software design and development.<br><br>Aside from coding, I enjoy exploring new technologies and learning about different programming paradigms. I'm always up for a challenge and eager to collaborate on exciting projects. Feel free to connect with me and let's create something amazing together!<br><br>
+👋 Hi, I'm Aman Kumar, a passionate B.Tech Computer Science Engineering student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore. I specialize in Java development and have hands-on experience with JSP, Servlets, JDBC, and front-end technologies like HTML and CSS. I'm driven by the challenge of building scalable web applications, and currently working on a Car Rental System project, where I focus on creating seamless user experiences and robust backend architectures.
+
+🔧 Skills: Java, JDBC, Servlet, JSP, HTML, CSS, MVC Architecture
+
+🚀 Projects:
+
+Car Rental System - A web application for managing user authentication, car inventory, and rental bookings.
+Data Download Duplication Alert System (DDAS) - Identifying file duplication over LAN systems and providing cross-system access.
+📚 Always eager to learn new technologies, I am currently exploring Spring Boot and diving deeper into full-stack web development.
+
+📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-625420247)
 
 
 ## 🌐 Socials:
