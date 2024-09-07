@@ -5,8 +5,8 @@
 
 🚀 Projects:
 
-Car Rental System - A web application for managing user authentication, car inventory, and rental bookings.
-Data Download Duplication Alert System (DDAS) - Identifying file duplication over LAN systems and providing cross-system access.
+Car Rental System - A web application for managing user authentication, car inventory, and rental bookings.<br>
+Data Download Duplication Alert System (DDAS) - Identifying file duplication over LAN systems and providing cross-system access.<br>
 📚 Always eager to learn new technologies, I am currently exploring Spring Boot and diving deeper into full-stack web development.
 
 📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-625420247)
