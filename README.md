@@ -10,13 +10,9 @@ I love turning ideas into working software and solving real-world problems throu
 
 ## 🔧 Skills
 
-* **Languages:** Java, C, C++, Kotlin, Dart
-* **Backend:** JSP, Servlets, JDBC, MVC Architecture
-* **Frontend:** HTML, CSS, Angular
-* **Mobile:** Flutter
+* **Languages:** Java, C, C++
+* **Backend:** JSP, Servlets, JDBC
 * **Database:** MySQL
-* **Cloud & Tools:** Google Cloud, Apache, Git/GitHub
-* **Design & Media:** Canva, Adobe Lightroom
 
 ---
 
@@ -72,14 +68,8 @@ A smart system to detect **duplicate files over LAN networks** and provide **cro
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge\&logo=apache\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 
 ---
 
@@ -100,18 +90,6 @@ A smart system to detect **duplicate files over LAN networks** and provide **cro
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Aman-1610\&limit=5\&theme=dark)
-
----
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' height='400'/>
 
 ---
 
