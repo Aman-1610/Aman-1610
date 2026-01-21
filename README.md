@@ -2,7 +2,6 @@
 
 👋 Hi, I'm **Aman Kumar**, a passionate **B.Tech Computer Science Engineering** student at **Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore**. I specialize in **Java-based backend development** and enjoy building **scalable, secure, and real‑world web applications**.
 
-I have strong hands-on experience with **JSP, Servlets, JDBC**, and core **frontend technologies (HTML, CSS)** following **MVC architecture**. Currently, I’m expanding my skill set with **Spring Boot** and modern **full‑stack development** practices.
 
 I love turning ideas into working software and solving real-world problems through clean architecture and efficient code.
 
